@@ -1,0 +1,8 @@
+prefix=/home/yard/duckietown/catkin_ws/install
+
+Name: anti_instagram
+Description: Description of anti_instagram
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yard/duckietown/catkin_ws/install/lib 
+Requires: 
