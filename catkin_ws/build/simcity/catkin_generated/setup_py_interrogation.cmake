@@ -1,0 +1,6 @@
+set(simcity_SETUP_PY_VERSION "0.0.1")
+set(simcity_SETUP_PY_SCRIPTS "")
+set(simcity_SETUP_PY_PACKAGES "simcity")
+set(simcity_SETUP_PY_PACKAGE_DIRS "include/simcity")
+set(simcity_SETUP_PY_MODULES "")
+set(simcity_SETUP_PY_MODULE_DIRS "")

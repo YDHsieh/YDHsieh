@@ -1,0 +1,8 @@
+prefix=/home/yard/duckietown/catkin_ws/install
+
+Name: simcity
+Description: Description of simcity
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/yard/duckietown/catkin_ws/install/lib 
+Requires: 

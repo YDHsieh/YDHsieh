@@ -1,0 +1,8 @@
+prefix=/home/yard/duckietown/catkin_ws/install
+
+Name: veh_coordinator
+Description: Description of veh_coordinator
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/yard/duckietown/catkin_ws/install/lib 
+Requires: 

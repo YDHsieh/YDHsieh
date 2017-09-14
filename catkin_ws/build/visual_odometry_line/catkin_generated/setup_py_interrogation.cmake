@@ -1,0 +1,6 @@
+set(visual_odometry_line_SETUP_PY_VERSION "0.0.0")
+set(visual_odometry_line_SETUP_PY_SCRIPTS "")
+set(visual_odometry_line_SETUP_PY_PACKAGES "lane_filter")
+set(visual_odometry_line_SETUP_PY_PACKAGE_DIRS "include/lane_filter")
+set(visual_odometry_line_SETUP_PY_MODULES "")
+set(visual_odometry_line_SETUP_PY_MODULE_DIRS "")
