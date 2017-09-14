@@ -1,0 +1,8 @@
+prefix=/home/yard/duckietown/catkin_ws/install
+
+Name: pi_camera
+Description: Description of pi_camera
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yard/duckietown/catkin_ws/install/lib 
+Requires: 
