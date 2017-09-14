@@ -1,0 +1,8 @@
+prefix=/home/yard/duckietown/catkin_ws/install
+
+Name: car_supervisor
+Description: Description of car_supervisor
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yard/duckietown/catkin_ws/install/lib 
+Requires: 
