@@ -1,0 +1,8 @@
+prefix=/home/yard/duckietown/catkin_ws/install
+
+Name: led_interpreter
+Description: Description of led_interpreter
+Version: 0.0.0
+Cflags: -I/home/yard/duckietown/catkin_ws/install/include
+Libs: -L/home/yard/duckietown/catkin_ws/install/lib -lled_interpreter
+Requires: duckietown_msgs roscpp rospy
